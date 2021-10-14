@@ -1,0 +1,3 @@
+<?php
+
+$variavelDeclarada = 'Foi declarada';
