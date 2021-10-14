@@ -3,8 +3,18 @@
         <h3>15. Banco de Dados</h3>
         <ul>
             <li>
-                <a href="exercicio.php?dir=bf&file=criar_banco">
+                <a href="exercicio.php?dir=db&file=criar_banco">
                     Banco de Dados
+                </a>
+            </li>
+            <li>
+                <a href="exercicio.php?dir=db&file=criar_tabela">
+                    Tabela
+                </a>
+            </li>
+            <li>
+                <a href="exercicio.php?dir=db&file=inserir">
+                    Inserção Registro #01
                 </a>
             </li>
         </ul>

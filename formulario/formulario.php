@@ -52,11 +52,11 @@ if(count($_POST) > 0){
 <form action="#" method="post">
     <div class="form-row">
         <div class="form-group col-md-9">
-            <label for="nome">Nome </label>
+            <label for="nome">Nome</label>
             <input type="text" class="form-control" id="nome" name="nome" placeholder="Nome" value="<?= $_POST['nome']?>">
         </div>
         <div class="form-group col-md-3">
-            <label for="nascimento">Nascimento </label>
+            <label for="nascimento">Nascimento</label>
             <input type="text" class="form-control" id="nascimento" name="nascimento"  placeholder="Data de nascimento" value="<?= $_POST['nascimento']?>">
         </div>
     </div>
