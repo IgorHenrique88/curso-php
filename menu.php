@@ -13,13 +13,18 @@
                 </a>
             </li>
             <li>
-                <a href="exercicio.php?dir=db&file=inserir">
+                <a href="exercicio.php?dir=db&file=inserir01">
                     Inserção Registro #01
                 </a>
             </li>
             <li>
                 <a href="exercicio.php?dir=db&file=consultar">
                     Consultar Registros
+                </a>
+            </li>
+            <li>
+                <a href="exercicio.php?dir=db&file=excluir01">
+                    Excluir Registros
                 </a>
             </li>
         </ul>
