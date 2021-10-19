@@ -24,7 +24,12 @@
             </li>
             <li>
                 <a href="exercicio.php?dir=db&file=excluir01">
-                    Excluir Registros
+                    Excluir Registros #01
+                </a>
+            </li>
+            <li>
+                <a href="exercicio.php?dir=db&file=excluir02">
+                    Excluir Registros #02
                 </a>
             </li>
         </ul>
